@@ -1,0 +1,11 @@
+1.
+Candidate A is the safer candidate, as it is more likely they will perform at around 75. Candidate B has more upside, meaning they could turn out 
+to be much better. However, it is also possible that they will perform much worse.
+
+2.
+Candidate B is better than candidate A. Since their productivity probability distribution are not overlapping, this means that there is no
+prediction in which candidate A is better than candidate B.
+
+3.
+It seems like the probability forecast is quite inaccurate. Indeed, all the test data is greater than the mean. This means that the distribution
+is biased and should have a positive mean.
